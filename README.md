@@ -22,10 +22,11 @@
 
 
 >
-> <img width="1457" height="836" alt="2026-05-28_19-19-14" src="https://github.com/user-attachments/assets/6eba77e7-ef48-45d5-ba26-6548a70ce419" />
+> <img width="1457" height="418" alt="2026-05-28_19-19-14" src="https://github.com/user-attachments/assets/6eba77e7-ef48-45d5-ba26-6548a70ce419" />
 
 >
-> <img width="1455" height="834" alt="2026-05-28_19-13-58" src="https://github.com/user-attachments/assets/015f80af-c67a-4166-b1c4-a61dc98c8958" />
+> <img width="728" height="418" alt="image" src="https://github.com/user-attachments/assets/d55c1143-61ad-47cb-999a-2afd2cde33f1" />
+
 
 
 </div>
